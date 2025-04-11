@@ -29,7 +29,7 @@
 
     <div id="about">
         <div class="about-grid">
-            <img src="aboutUs1.jpeg" alt="About Fashioneer"> <!-- Replace with your image -->
+            <img src="aboutUs1.jpeg" alt="About Fashioneer"> 
             <div id="about-text">
                 <h1>About Fashioneer</h1>
                 <p>
